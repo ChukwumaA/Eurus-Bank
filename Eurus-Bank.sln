@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eurus-Bank-DAL", "Eurus-Bank-DAL\Eurus-Bank-DAL.csproj", "{E63FFD0D-9EA5-42D6-83CD-DFD6D97832FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eurus-Bank-App", "Eurus-Bank-App\Eurus-Bank-App.csproj", "{E8969239-9553-42DD-8C1C-004B2940E353}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eurus-Bank-Models", "Eurus-Bank-Models\Eurus-Bank-Models.csproj", "{1C0B3DE7-DBAD-465D-8C30-A0C28B7C0A92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eurus-Bank-Services", "Eurus-Bank-Services\Eurus-Bank-Services.csproj", "{0DB5224E-30D3-49E9-B086-B71B1A54C3CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E63FFD0D-9EA5-42D6-83CD-DFD6D97832FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E63FFD0D-9EA5-42D6-83CD-DFD6D97832FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E63FFD0D-9EA5-42D6-83CD-DFD6D97832FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E63FFD0D-9EA5-42D6-83CD-DFD6D97832FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8969239-9553-42DD-8C1C-004B2940E353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8969239-9553-42DD-8C1C-004B2940E353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8969239-9553-42DD-8C1C-004B2940E353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8969239-9553-42DD-8C1C-004B2940E353}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C0B3DE7-DBAD-465D-8C30-A0C28B7C0A92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C0B3DE7-DBAD-465D-8C30-A0C28B7C0A92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C0B3DE7-DBAD-465D-8C30-A0C28B7C0A92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C0B3DE7-DBAD-465D-8C30-A0C28B7C0A92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DB5224E-30D3-49E9-B086-B71B1A54C3CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DB5224E-30D3-49E9-B086-B71B1A54C3CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DB5224E-30D3-49E9-B086-B71B1A54C3CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DB5224E-30D3-49E9-B086-B71B1A54C3CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
