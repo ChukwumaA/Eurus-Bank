@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <RootNamespace>Eurus_Bank_Services</RootNamespace>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>disable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Eurus-Bank-DAL\Eurus-Bank-DAL.csproj" />
+      <ProjectReference Include="..\Eurus-Bank-Models\Eurus-Bank-Models.csproj" />
+    </ItemGroup>
+
+</Project>
