@@ -21,10 +21,10 @@ while (true)
     switch (options)
     {
         case "1":
-            Console.Write("Enter your name: ");
+            Console.Write("Enter your first name: ");
             var firstName = Console.ReadLine();
             
-            Console.Write("Enter your name: ");
+            Console.Write("Enter your last name: ");
             var lastName = Console.ReadLine();
 
             Console.Write("Enter your email address: ");
@@ -71,7 +71,7 @@ while (true)
             {
                 Console.WriteLine("Please select an option to continue: ");
                 Console.WriteLine(
-                    "1. Withdraw\n2. Payment\n3. Transfer\n4. Check Balance\n5. Deposit\n6. Logout\n");
+                    "1. Withdraw\n2. Transfer\n3. Check Balance\n4. Deposit\n5. Logout\n");
 
                 var accountOperation = Console.ReadLine();
                 switch (accountOperation)
